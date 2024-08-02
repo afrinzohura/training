@@ -1,0 +1,7 @@
+public class ClockManager : MonoBehavior
+    public Timer Timer 
+    private Transform clockHandTransform
+    private const floadt readSecondsperGameDay
+    
+
+
